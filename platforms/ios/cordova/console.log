@@ -1,0 +1,7 @@
+2014-03-31 21:34:49.637 HelloCordova[49383:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 21:34:53.032 HelloCordova[49383:70b] Unlimited access to network resources
+2014-03-31 21:34:55.198 HelloCordova[49383:70b] [CDVTimer][statusbar] 859.085977ms
+2014-03-31 21:34:55.232 HelloCordova[49383:70b] [CDVTimer][TotalPluginStartup] 893.046021ms
+2014-03-31 21:34:56.077 HelloCordova[49383:70b] Resetting plugins due to page load.
+2014-03-31 21:35:02.430 HelloCordova[49383:70b] Finished load of: file:///Users/ricky/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/4E6A649F-DF15-4301-B81F-6FD92F09A036/HelloCordova.app/www/index.html#/tab/dash
+2014-03-31 21:35:04.423 HelloCordova[49383:70b] THREAD WARNING: ['Device'] took '27.302979' ms. Plugin should use a background thread.
